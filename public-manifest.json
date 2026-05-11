@@ -1,0 +1,9 @@
+{
+  "name": "Oferta Certa",
+  "short_name": "Oferta Certa",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#10b981",
+  "icons": []
+}
